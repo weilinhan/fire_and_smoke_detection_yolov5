@@ -14,13 +14,12 @@ It can be applied in early fire warning systems, warehouse safety monitoring, an
 ---
 
 ## 📂 Project Structure
-  - fire_and_smoke_detection_yolov5/
+ 
   - data/ # Dataset configs
   - models/ # Model definitions (weights not included)
   - runs/ # Training & inference results (ignored by .gitignore)
-  - yolov5/ # YOLOv5 source code
   - requirements.txt # Python dependencies
-  - README.md # Project description
+  
 
 ## 🔧 Requirements
     - Python >= 3.7.1  
