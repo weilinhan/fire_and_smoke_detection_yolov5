@@ -27,7 +27,7 @@ It can be applied in early fire warning systems, warehouse safety monitoring, an
     - PyTorch >= 1.8  
     - Other dependencies listed in `requirements.txt`  
 
-    Install them with:  
+  Install them with:  
      ```bash
       pip install -r requirements.txt
 
