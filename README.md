@@ -28,8 +28,9 @@ It can be applied in early fire warning systems, warehouse safety monitoring, an
     - Other dependencies listed in `requirements.txt`  
 
   Install them with:  
-     ```bash
-      pip install -r requirements.txt
+  
+    ```bash
+    pip install -r requirements.txt
 
 ## 📥 Trained Model
 
